@@ -103,6 +103,7 @@ Contributions are welcome! Please open an issue or submit a pull request to help
 
 ---
 
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+## 📩 Contact
+For collaboration, reach out at **balabomma.rishabhrao@gmail.com**.
 
+**Naturally, this was crafted with the help of ChatGPT.**
